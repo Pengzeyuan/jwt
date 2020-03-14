@@ -4,6 +4,7 @@ public class GitCommit {
     public void  fn(){
         int a=1;
         System.out.println("123"+a);
-
+        int b=2;
+         System.out.println("123"+b);
     }
 }
